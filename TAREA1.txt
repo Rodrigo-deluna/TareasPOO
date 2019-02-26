@@ -10,3 +10,8 @@ las caracteristicas especificas de un objeto, aquellas que se distinguen de las 
 ------------------------------------------------------------------
 Explica Encapsulamiento:
 ocultamiento del estado, es decir, de los datos miembro de un objeto de manera que solo se pueda cambiar mediante las operaciones definidas para ese objeto. 
+
+        TareasPoo/encapsulamiento.png
+      
+        TareasPoo/herencia.png
+      
