@@ -1,9 +1,9 @@
 Introduccion al paradigma de la programacion orientada a objetos:
-
+---------------------------------------------------------------
 Por que decimos que la clase es el mecanismo de abstracion de  los lenguajes?
 por que le damos un nombre a las clases que utilizamos normalmente y las pasamos a codigo
-
+---------------------------------------------------------------
 Un paradigma de la programacion es un forma de conceptualizar en que consiste la ejecucion de un programa y como deben de ser estructurados y organizados  =las tareas que se llevan a cabo en un cabo en esa ejecucion.
-
+----------------------------------------------------------------
 una abastracion puede definirse como:
 las caracteristicas especificas de un objeto, aquellas que se distinguen de las tipos de objetos y que logran definir limites conceptuales 
