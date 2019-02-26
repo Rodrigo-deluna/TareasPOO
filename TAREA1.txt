@@ -9,8 +9,8 @@ una abastracion puede definirse como:
 las caracteristicas especificas de un objeto, aquellas que se distinguen de las tipos de objetos y que logran definir limites conceptuales
 ------------------------------------------------------------------
 Explica Encapsulamiento:
-ocultamiento del estado, es decir, de los datos miembro de un objeto de manera que solo se pueda cambiar mediante las operaciones definidas para ese objeto. 
-
+ocultamiento del estado, es decir, de los datos miembro de un objeto de manera que solo se pueda cambiar mediante las operaciones definidas para ese objeto.
+[encapsulamiento]_(imagenes/encapsulamiento.png)
         TareasPoo/encapsulamiento.png
       
         TareasPoo/herencia.png
